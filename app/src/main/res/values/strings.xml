@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuFu</string>
+    <string name="turn_on_service">Start MuFu Server</string>
+    <string name="turn_off_service">Turn Off MuFu Server</string>
+    <string name="enter_port">e.g 8080</string>
+    <string name="port">Port</string>
+</resources>
